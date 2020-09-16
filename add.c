@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<add.h>
+#include<sum.h>
 int main()
 {
 int a,b;
